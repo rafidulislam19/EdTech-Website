@@ -105,7 +105,18 @@ a{
 .foot {
     height: 350px;
     margin-top: 100px;
+    background-color: #161616;
 }
  .social {
     border-radius: 50%;
+ }
+
+ .text-color {
+    color: #289BDE ;
+ }
+ .bg-color {
+    background: #289BDE;
+ }
+ .title-color {
+    color: #4A4A4A;
  }
